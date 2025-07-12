@@ -1,0 +1,7 @@
+ragas
+sacrebleu
+langchain_groq
+langchain_ollama
+langchain_core
+langchain_community
+#ipykernel

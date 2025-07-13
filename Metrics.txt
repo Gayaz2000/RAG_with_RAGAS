@@ -1,0 +1,66 @@
+# Retrieval Augmented Generation
+    ## Context Precision
+        - It is a metric that measures the proportion of relevant chunks in the retrieved_contexts.
+        - It is calculated as the mean of the precision@k for each chunk in the context.
+        - Precision@k is the ratio of the number of relevant chunks at rank k to the total number of chunks at rank k.
+    
+    ## Context Recall
+
+    ## Context Entities Recall
+
+    ## Noise Sensitivity
+
+    ## Response Relevancy
+
+    ## Faithfulness
+
+    ## Multimodal Faithfulness
+
+    ## Multimodal Relevance
+
+
+# Nvidia Metrics
+    ## Answer Accuracy
+
+    ## Context Relevance
+
+    ## Response Groundedness
+
+# Agents or Tool use cases
+    ## Topic adherence
+
+    ## Tool call Accuracy
+
+    ## Agent Goal Accuracy
+
+# Natural Language Comparison
+    ## Factual Correctness
+
+    ## Semantic Similarity
+
+    ## Non LLM String Similarity
+
+    ## BLEU Score
+
+    ## ROUGE Score
+
+    ## String Presence
+
+    ## Exact Match
+
+# SQL
+    ## Execution based Datacompy Score
+
+    ## SQL query Equivalence
+
+# General purpose
+    ## Aspect critic
+
+    ## Simple Criteria Scoring
+
+    ## Rubrics based scoring
+
+    ## Instance specific rubrics scoring
+
+# Other tasks
+    ## Summarization

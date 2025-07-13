@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "datasets>=4.0.0",
     "ipykernel>=6.29.5",
     "langchain-community>=0.3.27",
     "langchain-core>=0.3.68",

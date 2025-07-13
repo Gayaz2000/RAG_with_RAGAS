@@ -7,3 +7,4 @@ langchain_community
 #ipykernel
 unstructured
 unstructured[md]
+datasets

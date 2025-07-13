@@ -5,3 +5,5 @@ langchain_ollama
 langchain_core
 langchain_community
 #ipykernel
+unstructured
+unstructured[md]

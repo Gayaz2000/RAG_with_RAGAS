@@ -8,3 +8,4 @@ langchain_community
 unstructured
 unstructured[md]
 datasets
+rouge_score

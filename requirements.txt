@@ -9,3 +9,4 @@ unstructured
 unstructured[md]
 datasets
 rouge_score
+datacompy
